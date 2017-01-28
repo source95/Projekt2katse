@@ -2,8 +2,9 @@
 
 Teine katse
 Nimelt tegin täiesti ümber oma mäng.
-Nüüd väljakul mängija kes jooskeb ja kogub boonusid/toitu
-Juhtimiseks kasutada nooleklahvid
+Nüüd väljakul mängija kes jooskeb ja kogub boonusid/toitu.
+
+Juhtimiseks kasutada nooleklahvid.
 
 Litsents
 The MIT License (MIT)
